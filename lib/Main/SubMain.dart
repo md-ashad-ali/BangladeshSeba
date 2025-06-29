@@ -37,7 +37,7 @@ class _SubmainState extends State<Submain> {
           selectedItemColor: Colors.blue,
           unselectedItemColor: Colors.grey,
           items: [
-            BottomNavigationBarItem(icon: Icon(Icons.home), label: ''),
+            BottomNavigationBarItem(icon: Icon(Icons.home), label:''),
             BottomNavigationBarItem(icon: Icon(Icons.details), label: ''),
             BottomNavigationBarItem(icon: Icon(Icons.person), label: ''),
           ]
